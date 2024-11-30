@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Mobile app development 
 - 💞️ I’m looking to collaborate on projects on web and Mobile apps
 - 📫 How to reach me: through my email on profile or twitter
-- ⚡ Fun fact: I don't get bored cause my mind is always busy.
+- ⚡ Fun fact: most of my dreams are animated.
 
 <!---
 tfortofunmi/tfortofunmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
